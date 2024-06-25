@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Christine
 I'm a second year computer science university student from Newcastle Upon Tyne. I'm here to share my learnings to become a Front End Developer / Designer. <br>
+
 Currently focusing on Content Creation / Technical Writing / Web Development
 
 ## 🌐 let's connect on other socials
