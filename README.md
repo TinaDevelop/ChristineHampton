@@ -2,6 +2,7 @@
 🎓 Second year computer science university student from Newcastle Upon Tyne <br>
 🚀 Sharing my journey to become a Front End Developer / Designer <br>
 🔥 Currently focused on Content Creation / Technical Writing / Web Development <br>
+✉️ champt2001@protonmail.com
 
 ## 🌐 let's connect on other socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/champt20011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/christine.hampton/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christine-hampton/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@champt2001_54842) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/christinehampt) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/christinehampt) 
