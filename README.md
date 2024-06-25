@@ -2,6 +2,8 @@
 🎓 Second year computer science university student from Newcastle Upon Tyne <br>
 🚀 Sharing my journey to become a Front End Developer / Designer <br>
 🔥 Currently focused on Content Creation / Technical Writing / Web Development <br>
+🏆 Completed #100DaysOfCode challenge on Twitter
+
 ✉️ champt2001@protonmail.com
 
 ## 🌐 let's connect on other socials
